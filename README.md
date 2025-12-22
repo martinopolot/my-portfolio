@@ -1,5 +1,5 @@
 # My DevOps Portfolio
-## About Martin
+## About Me 
 
 
 Martin is a methodical, persistent, and detail-oriented learner with a strong passion for technology.  
