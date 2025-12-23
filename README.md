@@ -1,6 +1,6 @@
 # My DevOps Portfolio
 ## About Me 
-Learn more about this project [here](./about.md).
+Learn more about me [here](./about.md).
 
 Martin is a methodical, persistent, and detail-oriented learner with a strong passion for technology.  
 He demonstrates advanced proficiency in **Linux system administration**, **Bash scripting**, and practical troubleshooting, quickly mastering tools like `tar`, `cp`, `ss`, and `pgrep`.  
