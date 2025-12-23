@@ -17,5 +17,7 @@ Driven by intellectual curiosity and resilience, Martin values precision, clarit
 - GitHub authentication and security models  
 - Troubleshooting and diagnostics with filters and flags  
 - Accessibility and inclusivity in digital platforms  
-- Curiosity-driven learning and iterative improvement  
+- Curiosity-driven learning and iterative improvement
+
+## Projects-DevOps Lab 1
 
