@@ -1,4 +1,4 @@
-# Skills
+# Skills.
 ## Technical
 - Advanced Linux system administration
 - Bash scripting and automation
