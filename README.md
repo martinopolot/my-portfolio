@@ -19,3 +19,4 @@ Driven by intellectual curiosity and resilience, Martin values precision, clarit
 - Accessibility and inclusivity in digital platforms  
 - Curiosity-driven learning and iterative improvement  
 
+## Projects -Git Basics
